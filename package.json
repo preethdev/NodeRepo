@@ -4,7 +4,7 @@
   "description": "to check ui api",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
+    "start": "node index.js",
     "test": "run test"
   },
   "author": "preeth",
